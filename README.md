@@ -1,5 +1,8 @@
 # Assemble the Jams 2.0
 
+`**Version 3.0 is now live!**`
+[(read about Version 3.0 here)](https://github.com/sds-smith/assemble_the_jams_3/blob/master/README.md)
+
 This project is a Progressive Web App created with React 18 and React Router 6, employing React functional components, hooks (including a custom hook), and Context API.  It utilizes css-in-js via Styled Components, and incorporates Redux, Firebase, and AWS Lambda functions.
 
 ## Project overview
